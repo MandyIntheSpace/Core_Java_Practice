@@ -1,4 +1,4 @@
-package AccessModifiers;
+package PrivateAccessModifiers;
 
 
 //For example this will be the error code as 

@@ -1,4 +1,4 @@
-package AccessModifiers;
+package PrivateAccessModifiers;
 
 class Employee {
     private String name;
